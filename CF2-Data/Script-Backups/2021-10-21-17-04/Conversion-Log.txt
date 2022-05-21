@@ -1,0 +1,42 @@
+Converting script [1 / 5]	[\FXIFIED\common\Scripts\PlayerController.cs]
+	Fragments : 2
+		[ 0] : Line:   11	InputMethod   GetAxis             	("Horizontal")
+		[ 1] : Line:   12	InputMethod   GetAxis             	("Vertical")
+
+Converting script [2 / 5]	[\FXIFIED\common\Scripts\Quit.cs]
+	Fragments : 1
+		[ 0] : Line:   16	InputMethod   GetKeyDown          	(KeyCode.Escape)
+
+Converting script [3 / 5]	[\HorrorEnvironment_Hospital\Scripts\physicWalk.cs]
+	Fragments : 5
+		[ 0] : Line:   49	InputMethod   GetButton           	("Jump" )
+		[ 1] : Line:   58	InputMethod   GetAxis             	("Horizontal" )
+		[ 2] : Line:   66	InputMethod   GetAxis             	("Vertical" )
+		[ 3] : Line:   78	InputMethod   GetButton           	("Sprint" )
+		[ 4] : Line:   93	InputMethod   GetButton           	("Sprint" )
+
+Converting script [4 / 5]	[\HorrorEnvironment_Hospital\Scripts\physicWalk_MouseLook.cs]
+	Fragments : 2
+		[ 0] : Line:   65	InputMethod   GetAxis             	("Mouse X" )
+		[ 1] : Line:   65	InputMethod   GetAxis             	("Mouse Y" )
+
+Converting script [5 / 5]	[\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_New.cs]
+	Fragments : 7
+		[ 0] : Line:   61	InputMethod   GetKeyDown          	(KeyCode.LeftArrow)
+		[ 1] : Line:   65	InputMethod   GetKeyDown          	(KeyCode.RightArrow)
+		[ 2] : Line:   69	InputMethod   GetKeyDown          	(KeyCode.Delete)
+		[ 3] : Line:   74	InputMethod   GetMouseButtonDown  	(0)
+		[ 4] : Line:   77	InputProperty mousePosition       
+		[ 5] : Line:   84	InputMethod   GetAxis             	("Mouse ScrollWheel")
+		[ 6] : Line:   90	InputMethod   GetMouseButtonDown  	(2)
+
+
+5 scripts modified!
+Overwriting actual scripts...
+	[0 / 5] from  [D:/DoctorHorrorGameTest/DoctorHorrorGame/CF2-Data/Script-Backups/2021-10-21-17-04\Assets-After/\FXIFIED\common\Scripts\PlayerController.cs] to [D:/DoctorHorrorGameTest/DoctorHorrorGame/Assets/\FXIFIED\common\Scripts\PlayerController.cs]
+	[1 / 5] from  [D:/DoctorHorrorGameTest/DoctorHorrorGame/CF2-Data/Script-Backups/2021-10-21-17-04\Assets-After/\FXIFIED\common\Scripts\Quit.cs] to [D:/DoctorHorrorGameTest/DoctorHorrorGame/Assets/\FXIFIED\common\Scripts\Quit.cs]
+	[2 / 5] from  [D:/DoctorHorrorGameTest/DoctorHorrorGame/CF2-Data/Script-Backups/2021-10-21-17-04\Assets-After/\HorrorEnvironment_Hospital\Scripts\physicWalk.cs] to [D:/DoctorHorrorGameTest/DoctorHorrorGame/Assets/\HorrorEnvironment_Hospital\Scripts\physicWalk.cs]
+	[3 / 5] from  [D:/DoctorHorrorGameTest/DoctorHorrorGame/CF2-Data/Script-Backups/2021-10-21-17-04\Assets-After/\HorrorEnvironment_Hospital\Scripts\physicWalk_MouseLook.cs] to [D:/DoctorHorrorGameTest/DoctorHorrorGame/Assets/\HorrorEnvironment_Hospital\Scripts\physicWalk_MouseLook.cs]
+	[4 / 5] from  [D:/DoctorHorrorGameTest/DoctorHorrorGame/CF2-Data/Script-Backups/2021-10-21-17-04\Assets-After/\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_New.cs] to [D:/DoctorHorrorGameTest/DoctorHorrorGame/Assets/\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_New.cs]
+
+Overwriting COMPLETED!

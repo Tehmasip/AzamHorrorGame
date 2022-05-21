@@ -1,0 +1,7 @@
+-Complete all levels
+-Add partical effects
+-Sounds and music
+-UI
+-Add sound and force to the objects while colliding
+-Objectives
+-Subtitles 
